@@ -1,6 +1,5 @@
 import pandas as pd 
 import PIL 
-from openpyxl import load_workbook, Workbook
 import xlwings as xw
 import os 
 
